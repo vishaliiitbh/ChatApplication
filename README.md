@@ -20,4 +20,4 @@ Start the Client
   //open now terminal
   cd frontend
   npm start
-  
+  SCREEN SHOT OF THE Application are given 
